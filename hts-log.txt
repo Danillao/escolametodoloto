@@ -1,0 +1,19 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Wed, 15 Feb 2023 23:22:06 at https://metodolotosecreto.online/inicio/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://metodolotosecreto.online/inicio/ -O "/home/danilinux/websites/escolametodoloto.site" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F none -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:22:16	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.facebook.com/tr?id=635718011216670&ev=PageView&noscript=1
+23:22:19	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://metodolotosecreto.online/inicio/)
+23:22:20	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://metodolotosecreto.online/inicio/)
+23:22:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://img.imageboss.me/atm/cdn/u/SyYdQ0vjz4MMra470UDa49KSCgf2/l/aJycrq8668694.png
+23:22:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://scripts.converteai.net/cd567dfe-c7af-40dc-a7b8-ad6f4b977128/players/63abb19b83a182000a0cf936/player.js
+23:22:26	Error: 	"Not Found" (404) at link https://metodolotosecreto.online/inicio/c (from https://connect.facebook.net/en_US/fbevents.js)
+23:22:26	Error: 	"Not Found" (404) at link https://metodolotosecreto.online/inicio/b (from https://connect.facebook.net/en_US/fbevents.js)
+23:22:26	Error: 	"Not Found" (404) at link https://metodolotosecreto.online/inicio/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 18 links scanned, 11 files written (279132 bytes overall) [184124 bytes received at 9206 bytes/sec], 159698 bytes transferred using HTTP compression in 14 files, ratio 28%, 1.1 requests per connection
+(5 errors, 3 warnings, 0 messages)
